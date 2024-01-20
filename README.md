@@ -1,5 +1,7 @@
-# Getting Started with Create React App
- this is a simple dropdown application it contains movies in the dropdown content.
+# Dropdown
+ This is a simple dropdown application it contains movies in the dropdown content.
+ ![image](https://github.com/HANAMANTAPPA/simpledropdown/assets/48180907/24178047-1002-45b2-b982-8f4945dfac9c)
+
 
 # 1sr part UI design
 - added Dropdown component in App component
